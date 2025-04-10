@@ -1,5 +1,3 @@
-Here’s a clean and professional `README.md` template for your 3D tank game project, perfect for GitHub:
-
 ---
 
 # 🚀 Tanks! – A 3D Tank Combat Game
