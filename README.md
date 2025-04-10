@@ -1,5 +1,3 @@
----
-
 # 🚀 Tanks! – A 3D Tank Combat Game
 
 **Tanks!** is an action-packed 3D tank game developed in **Unity** using **C#**. Featuring dynamic arenas, explosive combat, and strategic gameplay, this game is being built as a **Final Year Project** by AbdulRehman (Team Lead) and Afzaal Ahmad.
