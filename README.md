@@ -37,7 +37,7 @@ Tanks! delivers thrilling multiplayer and AI battles in a fully immersive 3D env
 
 ## 👨‍💻 Team Members
 
-- **AbdulRehman** – Team Lead, Game Mechanics & Logic, Game Design, UI & Environment
+- **AbdulRehman Zahid** – Team Lead, Game Mechanics & Logic, Game Design, UI & Environment
 - **Afzaal Ahmad** – Documentation, Back-testing  
 
 ---
