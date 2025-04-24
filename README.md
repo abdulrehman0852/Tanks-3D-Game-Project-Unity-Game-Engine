@@ -1,49 +1,56 @@
 # 🚀 Tanks! – A 3D Tank Combat Game
 
-**Tanks!** is an action-packed 3D tank game developed in **Unity** using **C#**. Featuring dynamic arenas, explosive combat, and strategic gameplay, this game is being built as a **Final Year Project** by AbdulRehman (Team Lead) and Afzaal Ahmad.
+**Tanks!** is a thrilling 3D tank battle game developed in **Unity** using **C#**, featuring dynamic arenas, explosive combat, and strategic gameplay. This project is the **Final Year Game Development Project** of AbdulRehman Zahid (Team Lead) and Afzaal Ahmad.
 
-![Unity](https://img.shields.io/badge/Engine-Unity-000000?logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Under%20Development-yellow)
-
----
-
-## 🎮 Description
-
-Tanks! delivers thrilling multiplayer and AI battles in a fully immersive 3D environment. Players command powerful tanks, maneuver through custom-built battlefields, and engage in high-intensity combat. This project showcases real-time physics, smooth mechanics, and interactive UI systems—all crafted in Unity.
+<p>
+  <img src="https://img.shields.io/badge/Engine-Unity-000000?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Under%20Development-yellow" />
+</p>
 
 ---
 
-## 🔧 Features
+## 🎮 Game Overview
 
-- 🚗 Realistic Tank Movement & Controls  
-- 💣 Explosive Shell Combat  
-- 🌍 Dynamic Battle Arenas  
-- 🧠 AI-Based Enemy Tanks  
-- 🎮 Player Health & Power-ups System  
-- 🕹️ Modular UI for Menus and HUD  
-- 📊 Score Tracking and Game Progression  
+**Tanks!** immerses players in high-stakes tank warfare, navigating through custom-built battle arenas. Command your tank, outmaneuver enemies, and land explosive shots to dominate the battlefield. Designed with real-time physics, smooth controls, and responsive UI, this game delivers fast-paced action and strategic depth.
 
 ---
 
-## 🛠️ Technologies
+## 🔧 Key Features
 
-- **Game Engine**: Unity  
-- **Programming Language**: C#  
-- **Version Control**: Git + GitHub  
-- **Design & Assets**: Unity Asset Store  
-
----
-
-## 👨‍💻 Team Members
-
-- **AbdulRehman Zahid** – Team Lead, Game Mechanics & Logic, Game Design, UI & Environment
-- **Afzaal Ahmad** – Documentation, Back-testing  
+- 🔹 Smooth Tank Controls with Realistic Physics  
+- 🔹 Explosive Combat with Shell Impact Effects  
+- 🔹 Unique Battle Arenas with Strategic Obstacles  
+- 🔹 Health System, Power-ups & Collectibles  
+- 🔹 Interactive UI for Menus, HUD & Score  
+- 🔹 Game Progression with Level Scaling  
 
 ---
 
-## 📅 Development Status
+## 🛠️ Technologies Used
 
-This project is currently **in development** and will be completed as part of our final year academic submission. More updates coming soon!
+| Tool/Tech         | Description                 |
+|-------------------|-----------------------------|
+| 🎮 Unity          | Game Engine for 3D gameplay |
+| 💻 C#             | Core programming language   |
+| 🗃️ Git + GitHub   | Version Control & Hosting   |
+| 🎨 Unity Assets   | Environment & FX assets     |
 
 ---
+
+## 👥 Contributors
+
+| Name                | Role                                | GitHub Profile                                    |
+|---------------------|-------------------------------------|--------------------------------------------------|
+| **AbdulRehman Zahid** | Team Lead – Game Mechanics, Design, UI & Environment | [abdulrehman0852](https://github.com/abdulrehman0852) |
+| **Afzaal Ahmad**     | Documentation, Testing & Reports   | [Afzaal0Ahmad](https://github.com/Afzaal0Ahmad) |
+
+---
+
+## 📅 Project Timeline
+
+This project is actively under development and targeted for completion as part of our academic final year submission. Stay tuned for gameplay trailers, final builds, and more updates.
+
+---
+
+> Designed with passion. Built with Unity.
