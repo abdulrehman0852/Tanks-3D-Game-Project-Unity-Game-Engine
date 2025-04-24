@@ -65,8 +65,6 @@ The project is currently **in development** as part of the academic curriculum. 
 
 ## 🔮 Future Improvements
 
-- 🎮 Multiplayer functionality (LAN or online)  
-- 🔊 Audio system and sound effects  
 - 🛡️ New tank types and upgrade system  
 - 🌌 Enhanced visual FX and animations  
 
