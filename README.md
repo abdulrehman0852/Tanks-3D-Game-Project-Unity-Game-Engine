@@ -46,7 +46,7 @@
 |---------------------|-------------------------------------|--------------------------------------------------|
 | **AbdulRehman Zahid** | Team Lead – Game Mechanics, Design, UI & Environment | [abdulrehman0852](https://github.com/abdulrehman0852) |
 | **Afzaal Ahmad**     | Documentation, Testing & Reports   | [Afzaal0Ahmad](https://github.com/Afzaal0Ahmad) |
-| **Zaid chodu**   | Development Oversight & Debugging  | [Zaid4156](https://github.com/Zaid4156) |
+| **Zaid Bin Nasir**   | Development Oversight & Debugging  | [Zaid4156](https://github.com/Zaid4156) |
 
 ---
 
